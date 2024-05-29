@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+* Current student of MSU Denver
 <!--
 **Hector118/Hector118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
